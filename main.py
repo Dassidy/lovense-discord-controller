@@ -114,4 +114,4 @@ async def info(ctx):
 
 
 # login
-bot.run("MTAyNTc4Mjk4NDQ4NzQ3MzIwMw.GS2cs3.wPwteHdBsTAvvp9oe9Wjt-RN4N7UXpFe4bMh3w")
+bot.run("token")
