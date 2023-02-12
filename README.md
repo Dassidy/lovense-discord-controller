@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/dassidy/lovense-discord-controller">
-    <img src="https://cdn.lovense.com/resources/img/newindex/logo_pink.png" alt="Logo" width="120" height="150">
+    <img src="https://cdn.lovense.com/resources/img/newindex/logo_pink.png" alt="Logo" width="150" height="120">
   </a>
   
   <h2 align="center">Lovense Discord Controller</h3>
